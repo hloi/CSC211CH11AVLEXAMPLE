@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CSC211CH11AVLEXAMPLE.dir/AVLTree.cpp.obj"
   "CMakeFiles/CSC211CH11AVLEXAMPLE.dir/main.cpp.obj"
   "CSC211CH11AVLEXAMPLE.exe"
   "CSC211CH11AVLEXAMPLE.exe.manifest"

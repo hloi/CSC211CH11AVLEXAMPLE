@@ -4,7 +4,7 @@
 
 #ifndef CSC211CH11AVLEXAMPLE_AVLNODE_H
 #define CSC211CH11AVLEXAMPLE_AVLNODE_H
-
+#include "BTNode.h"
 #include <sstream>
 template<typename Item_Type>
 struct AVLNode : public BTNode<Item_Type> {

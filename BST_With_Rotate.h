@@ -16,6 +16,13 @@ protected:
             temp->right = local_root;  // change temp right point to the old node
             local_root = temp; // set temp to new root
     }
+
+    void rotate_left(BTNode<Item_Type>*& local_root) {
+        BTNode<Item_Type>* temp = local_root->left; // point to new root
+        local_root->left = temp->right;  // move right node to new location
+        temp->right = local_root;  // change temp right point to the old node
+        local_root = temp; // set temp to new root
+    }
 };
 
 

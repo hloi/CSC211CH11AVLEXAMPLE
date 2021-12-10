@@ -83,6 +83,12 @@
 		<Unit filename="C:/Users/hloi/CLionProjects/CSC211CH11AVLEXAMPLE/AVLNode.h">
 			<Option target="CSC211CH11AVLEXAMPLE"/>
 		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC211CH11AVLEXAMPLE/AVLTree.cpp">
+			<Option target="CSC211CH11AVLEXAMPLE"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC211CH11AVLEXAMPLE/AVLTree.h">
+			<Option target="CSC211CH11AVLEXAMPLE"/>
+		</Unit>
 		<Unit filename="C:/Users/hloi/CLionProjects/CSC211CH11AVLEXAMPLE/BST_With_Rotate.h">
 			<Option target="CSC211CH11AVLEXAMPLE"/>
 		</Unit>
